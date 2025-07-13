@@ -23,8 +23,8 @@ with st.sidebar:
         url="https://pedrop.vercel.app"
     )
     st.markdown("---")
-    st.header("Calculadoras Juridicas")
-    st.markdown("Aproveite as calculdoras jurídicas aqui disponíveis")
+    st.header("Pedro Potz")
+    st.markdown("Advogado Programador")
 
 
 # --- Página Principal ---
@@ -144,7 +144,7 @@ st.markdown("---")
 
 st.write("Estou aqui para guiá-los nessa jornada. Juntos, vamos desmistificar a tecnologia")
 
-st.markdown("### Não perca os meus tutoriais e outras ferrramentas gratuitas.! ")
+st.markdown("### Não perca meus tutoriais e outras ferrramentas gratuitas! ")
 st.link_button("Vamos juntos!" , "https://pedrop.vercel.app/", help="Aprenda a programar do zero ao avançado!")
 
 
@@ -153,6 +153,7 @@ st.link_button("Vamos juntos!" , "https://pedrop.vercel.app/", help="Aprenda a p
 st.markdown("---")
 st.link_button("Geo -visualização Avançada", "https://runmapy.streamlit.app/")
 st.link_button("Visualização de dados simples","https://sleepdataview.streamlit.app/")
+st.link_button("Bem-vindo ao Futuro: Esqueça Excel","https://pedroduck.streamlit.app")
 st.markdown("---")
 
 st.markdown("---")
