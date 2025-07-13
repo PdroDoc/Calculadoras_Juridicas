@@ -1,0 +1,7 @@
+streamlit
+streamlit-lottie
+streamlit-card
+pandas
+numpy
+plotly
+python-dateutil
