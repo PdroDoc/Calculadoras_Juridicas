@@ -16,16 +16,9 @@ with st.sidebar:
     # Corrigido: use_column_width por use_container_width
     st.image("https://avatars.githubusercontent.com/u/205710427?v=4", caption="Advogado que programa é unicórnio!", use_container_width=True) # Sua imagem com uma frase de poder
     st.markdown("---")
-    card(
-        title="Pedro Potz",
-        text="Visite meu site",
-        image="https://avatars.githubusercontent.com/u/205710427?v=4", # Sugestão de imagem mais profissional, se tiver
-        url="https://pedrop.vercel.app"
-    )
-    st.markdown("---")
     st.header("Pedro Potz")
     st.markdown("Advogado Programador")
-
+    st.link_button("Conheça meu novo site", "https://pedrop.vercel.app/")
 
 # --- Página Principal ---
 st.title('👈🏻⚖️ Calculadoras Jurídicas' )
